@@ -1,3 +1,3 @@
-# synth-monitor
+# JS Template
 
-A utility to constantly monitor synth activity
+Start a new project using me as a template!
