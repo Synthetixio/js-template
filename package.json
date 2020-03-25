@@ -1,5 +1,4 @@
 {
-	"name": "   ",
 	"version": "1.0.0",
 	"private": true,
 	"description": "",
@@ -17,14 +16,6 @@
 		"lint": "eslint .",
 		"format": "prettier --write '**/*.js'"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Synthetixio/   .git"
-	},
 	"author": "Synthetix",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/Synthetixio/   /issues"
-	},
-	"homepage": "https://github.com/Synthetixio/   #readme"
+	"license": "MIT"
 }
